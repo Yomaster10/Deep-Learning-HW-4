@@ -11,7 +11,7 @@
   Written by Yotam Granov, October 2022
 </h4>
 
-
+<br />
 The main script to be run is `run_attacks.py`, which is run in the command line as follows:
 
 ```
