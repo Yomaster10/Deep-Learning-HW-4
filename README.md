@@ -1,5 +1,5 @@
 <h1 align="center">
-  Deep Learning on Computational Accelerators - Final Project (HW#4)
+  Deep Learning on Comp. Accelerators - Final Project (HW#4)
 </h1>
 <h2 align="center">
   Projected Nesterov Momentum Iterative Fast Gradient Sign Method (PNMI-FGSM) for Adversarial Attacks on a Visual Odometry System
