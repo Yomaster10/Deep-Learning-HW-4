@@ -24,4 +24,4 @@ srun -c 2 --gres=gpu:1 --pty -w lambda3 python run_attacks.py --model-name tarta
 
 The file `pnmi_fgsm.py` (located inside the `\attacks` folder) contains the `PNMI-FGSM` class, which is the implementation of our model. The `perturb()` method conducts the actual attack generation, while the `PNMI_FGSM_gradient_ascent_step()` method conducts one iteration of gradient descent and produces the next iteration of the perturbation. The `utils.py` file was edited to include an option for our model to be used when the command `--attack pnmi` is called at the command line when `run_attacks.py` is run.
 
-There are no other new files from the original assignemnt codebase.
+There are no other new files from the original assignment codebase.
