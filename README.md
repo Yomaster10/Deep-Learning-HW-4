@@ -1,5 +1,16 @@
-# Projected Nesterov Momentum Iterative Fast Gradient Sign Method (PNMI-FGSM)
-**Deep Learning Final Project - Yotam Granov, Spring 2022**
+<h1 align="center">
+  Deep Learning on Computational Accelerators - Final Project (HW#4)
+</h1>
+<h2 align="center">
+  Projected Nesterov Momentum Iterative Fast Gradient Sign Method (PNMI-FGSM) for Adversarial Attacks on a Visual Odometry System
+</h2>
+<p align="center">
+  <img src="https://github.com/Yomaster10/Deep-Learning-HW-4/blob/master/custom_attack.png">
+</p>
+<h4 align="center">
+  Written by Yotam Granov, October 2022
+</h4>
+
 
 The main script to be run is `run_attacks.py`, which is run in the command line as follows:
 
